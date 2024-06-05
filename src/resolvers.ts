@@ -30,6 +30,7 @@ const resolvers: Resolvers = {
 				throw new Error('Error in finding reviews: ' + err.message);
 			}
 		},
+    
 	},
 };
 

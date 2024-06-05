@@ -51,6 +51,7 @@ type Query {
 
 	# Thumbtack Review Queries
 	queryThumbtackReviews: [ThumbtackReview!]
+  
 
 }
 
