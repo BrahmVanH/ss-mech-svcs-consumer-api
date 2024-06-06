@@ -7,8 +7,6 @@
 		"start": "ts-node server.ts",
 		"dev": "nodemon server.ts",
 		"watch": "nodemon server.ts",
-		"build": "npm run minify && webpack",
-		"seed": "node seeders/seed.js",
 		"codegen": "graphql-codegen --config codegen.ts"
 	},
 	"keywords": [],
